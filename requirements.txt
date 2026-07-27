@@ -1,0 +1,18 @@
+# AI Document Forgery Detector — Python 3.14+ compatible dependencies
+# Install: pip install -r requirements.txt
+
+streamlit>=1.45
+opencv-python>=4.10
+# On server/CI without GUI libs, use headless instead:
+# opencv-python-headless>=4.10
+Pillow>=11.0
+imagehash>=4.3
+numpy>=2.0
+matplotlib>=3.9
+piexif>=1.1
+exifread>=3.0
+reportlab>=4.2
+pytesseract>=0.3
+scikit-image>=0.24
+scipy>=1.14
+pytest>=8.0
