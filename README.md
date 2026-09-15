@@ -179,11 +179,6 @@ This version has been updated for full Python 3.14 compatibility:
 | `piexif` not installing on Python 3.14 | Safe — the app gracefully disables it |
 
 ---
-
-## 📜 License
-
-MIT — see [LICENSE](LICENSE) file for details.
-
 ---
 ## Author 
 # Harsh Saini
