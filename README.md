@@ -186,8 +186,8 @@ MIT — see [LICENSE](LICENSE) file for details.
 
 ---
 ## Author 
-**Harsh Saini**
-# Bachelor of Computer Applications (Artificial Intelligence & Machine Learning)
+# Harsh Saini
+**Bachelor of Computer Applications (Artificial Intelligence & Machine Learning)**
 <div a="center">
   <sub>Built with ❤️ using Python, Streamlit, OpenCV, ReportLab, and Tesseract</sub>
 </div>
