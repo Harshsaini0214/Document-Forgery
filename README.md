@@ -1,6 +1,6 @@
-# 🔍 AI Document Forgery Detector
+# 🔍  Document Forgery Detector
 
-<div align="center">
+<div a="center">
 
 ![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.14-4f8ef7?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.45%2B-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -185,7 +185,10 @@ This version has been updated for full Python 3.14 compatibility:
 MIT — see [LICENSE](LICENSE) file for details.
 
 ---
-
-<div align="center">
+## Author 
+**Harsh Saini**
+# Bachelor of Computer Applications (Artificial Intelligence & Machine Learning)
+<div a="center">
   <sub>Built with ❤️ using Python, Streamlit, OpenCV, ReportLab, and Tesseract</sub>
 </div>
+
