@@ -55,7 +55,7 @@ from utils.report import export_report
 
 # ── Page config ────────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="AI Document Forgery Detector",
+    page_title="Document Forgery Detector",
     page_icon="🔍",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -284,7 +284,7 @@ with h_col1:
 with h_col2:
     st.markdown("""
     <div class="hero-wrap">
-        <p class="hero-title">AI Document Forgery Detector</p>
+        <p class="hero-title">Document Forgery Detector</p>
         <p class="hero-sub">FORENSIC ANALYSIS ENGINE &nbsp;·&nbsp; Python 3.14 Compatible</p>
         <span class="hero-badge">ELA</span>
         <span class="hero-badge">Copy–Move</span>
